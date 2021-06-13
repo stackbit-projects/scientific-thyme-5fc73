@@ -22,7 +22,7 @@ sections:
       solutie completa la cheie clientilor nostri care sunt interesati de
       trecerea flotei proprii pe energie verde.
   - type: team_section
-    title: Our Team
+    title: Echipa
     team:
       - _data/team/miles-tone.yaml
       - _data/team/dianne-ameter.yaml
