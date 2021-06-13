@@ -61,6 +61,23 @@ sections:
         type: feature
         image: images/feature.svg
         title: Montaj si punere in functiune
+      - title: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        align: left
+        image_alt: lorem-ipsum
+        image_position: left
+        actions: []
+        type: feature
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
