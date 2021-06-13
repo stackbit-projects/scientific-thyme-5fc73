@@ -38,7 +38,7 @@ sections:
           Va oferim cea mai buna oferta pentru echipamentele necesare si vi le
           punem la dispozitie, in colaborare cu furnizorul nostru
         align: left
-        image: images/groovy-maple.jpg
+        image: images/diagonal-lines.svg
         image_alt: Feature 2 placeholder image
         image_position: left
         actions: []
