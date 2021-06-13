@@ -25,10 +25,10 @@ sections:
     title: Servicii
     features:
       - title: Consultanta
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Ne comunicati nevoile dumneavoastra - numarul de masini, locatie etc.
+          iar noi va oferim configuratia completa customizata conform cu
+          necesitatile dumneavoastra
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
