@@ -67,7 +67,7 @@ sections:
           si software-ul de comunicare cu acestea
         align: left
         image_alt: lorem-ipsum
-        image_position: left
+        image_position: right
         actions: []
         type: feature
 seo:
