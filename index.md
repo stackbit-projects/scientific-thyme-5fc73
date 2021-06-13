@@ -51,17 +51,9 @@ sections:
         image_alt: Feature 3 placeholder image
         image_position: right
         actions: []
-      - content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+      - content: >
+          Montam statiile in locatia dumneavoastra si punem in functiune
+          sistemul complet
         align: left
         image_alt: lorem-ipsum
         image_position: left
