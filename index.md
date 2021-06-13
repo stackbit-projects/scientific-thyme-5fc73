@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: Solutii complete pentru statii de incarcare electrice
-    subtitle: Va oferim solutia la cheie pentru flota dumneavoastra de masini electrice
+    subtitle: >-
+      Va oferim solutia la cheie pentru flota dumneavoastra de automobile
+      electrice
     actions:
       - label: Contactati-ne
         url: /contact
