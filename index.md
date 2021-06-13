@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Solutii incarcare flote masini electrice
+    title: Solutii complete pentru statii de incarcare electrice
     subtitle: Va oferim solutia la cheie pentru flota dumneavoastra de masini electrice
     actions:
       - label: Learn More
