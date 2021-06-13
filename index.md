@@ -61,7 +61,7 @@ sections:
         type: feature
         image: images/feature.svg
         title: Montaj si punere in functiune
-      - title: lorem-ipsum
+      - title: Mentenanta post-instalare
         content: >-
           ## Lorem ipsum
 
