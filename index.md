@@ -70,7 +70,8 @@ sections:
         image_position: right
         actions: []
         type: feature
-        image: images/thisisengineering-raeng-f4pUuCc3M0g-unsplash.jpg
+        image: >-
+          images/iconfinder_3709733_customer_displeasure_problems_support_trouble_icon_512px.png
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
