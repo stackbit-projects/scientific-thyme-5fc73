@@ -26,7 +26,6 @@ sections:
     team:
       - _data/team/miles-tone.yaml
       - _data/team/dianne-ameter.yaml
-      - _data/team/hanson-deck.yaml
 seo:
   title: Who We Are
   description: This is the about us page
