@@ -68,6 +68,7 @@ sections:
         actions: []
         type: feature
         image: images/feature.svg
+        title: Montaj si punere in functiune
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
