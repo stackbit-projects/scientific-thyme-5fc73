@@ -59,7 +59,8 @@ sections:
         image_position: left
         actions: []
         type: feature
-        image: images/markus-spiske-kK7uPfb2YWU-unsplash.jpg
+        image: >-
+          images/iconfinder_2578283_charge_electric_electricity_energy_plug_icon_512px.png
         title: Montaj si punere in functiune
       - title: Mentenanta post-instalare
         content: >
