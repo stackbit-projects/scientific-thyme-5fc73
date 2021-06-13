@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Solutii incarcare flote masini electrice
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: Va oferim solutia la cheie pentru flota dumneavoastra de masini electrice
     actions:
       - label: Learn More
         url: /features
