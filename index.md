@@ -58,7 +58,7 @@ sections:
         image_position: left
         actions: []
         type: feature
-        image: images/1.png
+        image: images/feature.svg
         title: Montaj si punere in functiune
       - title: Mentenanta post-instalare
         content: >
