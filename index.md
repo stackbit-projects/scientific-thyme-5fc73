@@ -22,7 +22,7 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
   - type: features_section
-    title: Servicii
+    title: Servicii oferite
     features:
       - title: Consultanta
         content: >
