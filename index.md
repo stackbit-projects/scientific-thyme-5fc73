@@ -70,7 +70,6 @@ sections:
         image_position: left
         actions: []
         type: feature
-        image: images/feature.svg
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
