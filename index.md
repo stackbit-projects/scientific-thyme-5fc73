@@ -29,7 +29,7 @@ sections:
           iar noi va oferim configuratia completa customizata conform cu
           necesitatile dumneavoastra
         align: left
-        image: images/alexander-schimmeck-PTfKblhWcCY-unsplash.jpg
+        image: images/1.png
         image_alt: Feature 1 placeholder image
         image_position: right
         actions: []
