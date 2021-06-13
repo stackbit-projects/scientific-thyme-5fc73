@@ -44,10 +44,8 @@ sections:
         image_position: left
         actions: []
       - title: Instalatia electrica
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: |
+          Executam complet instalatia electrica necesara pentru dumneavoastra
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
