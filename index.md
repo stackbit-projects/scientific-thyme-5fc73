@@ -5,7 +5,7 @@ sections:
     title: Solutii complete pentru statii de incarcare electrice
     subtitle: Va oferim solutia la cheie pentru flota dumneavoastra de masini electrice
     actions:
-      - label: Contact Us
+      - label: Contactati-ne
         url: /contact
         style: secondary
     align: left
