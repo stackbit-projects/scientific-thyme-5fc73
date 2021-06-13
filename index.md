@@ -20,7 +20,7 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
-    image: images/iconfinder_5422802_car_electric_electrocar_tesla_icon_512px.png
+    image: images/pleasant-maple.png
   - type: features_section
     title: Serviciile noastre
     features:
