@@ -26,7 +26,6 @@ sections:
     team:
       - _data/team/miles-tone.yaml
       - _data/team/dianne-ameter.yaml
-      - _data/team/eleanor-carr.yaml
       - _data/team/hanson-deck.yaml
       - _data/team/gordon-norman.yaml
 seo:
