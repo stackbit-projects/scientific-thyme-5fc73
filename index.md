@@ -62,17 +62,9 @@ sections:
         image: images/feature.svg
         title: Montaj si punere in functiune
       - title: Mentenanta post-instalare
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Oferim mentenanta, diagnoza si suport atat pentru statiile fizice cat
+          si software-ul de comunicare cu acestea
         align: left
         image_alt: lorem-ipsum
         image_position: left
