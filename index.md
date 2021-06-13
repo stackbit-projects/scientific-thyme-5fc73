@@ -50,10 +50,7 @@ sections:
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
         image_position: right
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
+        actions: []
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
