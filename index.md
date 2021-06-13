@@ -58,8 +58,7 @@ sections:
         image_position: left
         actions: []
         type: feature
-        image: >-
-          images/iconfinder_2578283_charge_electric_electricity_energy_plug_icon_512px.png
+        image: images/1.png
         title: Montaj si punere in functiune
       - title: Mentenanta post-instalare
         content: >
