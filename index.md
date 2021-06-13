@@ -46,7 +46,7 @@ sections:
         content: |
           Executam complet instalatia electrica necesara pentru dumneavoastra
         align: left
-        image: images/iconfinder_45094_electricity_icon_400px.png
+        image: images/1.png
         image_alt: Feature 3 placeholder image
         image_position: right
         actions: []
