@@ -69,8 +69,7 @@ sections:
         image_position: right
         actions: []
         type: feature
-        image: >-
-          images/iconfinder_3709733_customer_displeasure_problems_support_trouble_icon_512px.png
+        image: images/feature.svg
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
