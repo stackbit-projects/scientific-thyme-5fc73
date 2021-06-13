@@ -51,9 +51,6 @@ sections:
         image_alt: Feature 3 placeholder image
         image_position: right
         actions: []
-  - title: lorem-ipsum
-    features: []
-    type: features_section
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
