@@ -46,7 +46,7 @@ sections:
         content: |
           Executam complet instalatia electrica necesara pentru dumneavoastra
         align: left
-        image: images/1.png
+        image: images/feature.svg
         image_alt: Feature 3 placeholder image
         image_position: right
         actions: []
