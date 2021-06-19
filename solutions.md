@@ -12,6 +12,7 @@ sections:
         image_position: left
         actions: []
         type: feature
+        image: images/groovy-maple.jpg
     type: features_section
   - title: Clienti rezidentiali
     features: []
