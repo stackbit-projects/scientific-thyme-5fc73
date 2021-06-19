@@ -34,6 +34,7 @@ sections:
         image_position: left
         actions: []
         type: feature
+        image: images/chuttersnap-xfaYAsMV1p8-unsplash.jpg
     type: features_section
 seo:
   title: ''
