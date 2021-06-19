@@ -34,8 +34,9 @@ sections:
         actions: []
       - title: Echipamente
         content: >
-          Va oferim cea mai buna oferta pentru echipamentele necesare si vi le
-          punem la dispozitie, in colaborare cu furnizorul nostru
+          Oferim toate echipamentele necesare pentru realizarea proiectului
+          (instalatia electrica, transformatoare, statiile de incarcare,
+          software-ul de operare).
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
