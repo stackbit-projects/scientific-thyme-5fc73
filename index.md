@@ -57,7 +57,7 @@ sections:
         image_position: left
         actions: []
         type: feature
-        image: images/feature.svg
+        image: images/kempower-s-series-family-2.jpg
         title: Montaj si punere in functiune
       - title: Mentenanta post-instalare
         content: >
