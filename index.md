@@ -23,9 +23,8 @@ sections:
     features:
       - title: Consultanta
         content: >
-          Ne comunicati nevoile dumneavoastra - numarul de masini, locatie etc.
-          iar noi va oferim configuratia completa customizata conform cu
-          necesitatile dumneavoastra
+          In func numarul de masini, locatie etc. iar noi va oferim configuratia
+          completa customizata conform cu necesitatile dumneavoastra
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
