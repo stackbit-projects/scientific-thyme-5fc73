@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Solutii
 seo:
   title: ''
   description: ''
