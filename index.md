@@ -45,7 +45,7 @@ sections:
         content: |
           Executam instalatia electrica completa.
         align: left
-        image: images/feature.svg
+        image: images/arno-senoner-fL9lVrFDhIA-unsplash.jpg
         image_alt: Feature 3 placeholder image
         image_position: right
         actions: []
