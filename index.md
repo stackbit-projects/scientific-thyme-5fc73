@@ -41,7 +41,7 @@ sections:
         image_alt: Feature 2 placeholder image
         image_position: left
         actions: []
-      - title: Instalatia electrica
+      - title: Instalatii electrice
         content: |
           Executam instalatia electrica completa.
         align: left
