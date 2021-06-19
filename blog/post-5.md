@@ -5,7 +5,7 @@ categories: []
 tags:
   - Stackbit
   - Netlify
-image: images/5.png
+image: images/groovy-maple.jpg
 image_alt: Post 5 placeholder image
 seo:
   title: Amet Nulla Facilisi Morbi Tempus
