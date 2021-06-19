@@ -2,7 +2,6 @@
 title: Utrum Igitur Tibi Litteram Videor An Totas Paginas
 date: '2020-04-16'
 categories:
-  - _data/categories/tutorials.yaml
   - _data/categories/general.yaml
 image_alt: Post 1 placeholder image
 excerpt: >-
