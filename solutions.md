@@ -7,18 +7,7 @@ sections:
     type: blog_feed_section
   - title: Clienti comerciali
     features:
-      - content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        align: left
+      - align: left
         image_alt: lorem-ipsum
         image_position: left
         actions: []
