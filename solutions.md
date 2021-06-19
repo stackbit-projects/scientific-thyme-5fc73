@@ -11,6 +11,9 @@ sections:
   - title: Clienti rezidentiali
     features: []
     type: features_section
+  - title: lorem-ipsum
+    features: []
+    type: features_section
 seo:
   title: ''
   description: ''
