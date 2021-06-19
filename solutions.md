@@ -16,8 +16,7 @@ sections:
     type: features_section
   - title: Clienti rezidentiali
     features:
-      - title: lorem-ipsum
-        content: >-
+      - content: >-
           ## Lorem ipsum
 
 
