@@ -8,4 +8,4 @@ seo:
   type: stackbit_page_meta
 layout: page
 ---
-##
+## ![](/\_static/app-assets/groovy-maple.jpg)
