@@ -17,8 +17,7 @@ sections:
   - title: Clienti rezidentiali
     features: []
     type: features_section
-  - title: lorem-ipsum
-    features: []
+  - features: []
     type: features_section
   - title: Statii publice (In curand)
     features: []
