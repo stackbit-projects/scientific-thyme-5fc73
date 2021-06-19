@@ -7,20 +7,15 @@ sections:
   - type: content_section
     content: >
       Compania CLAR ELECTRIC a fost fondata in anul 2014 si are ca si obiect de
-      activitate proiectarea si executia de instalatii electrice de tensiune
-      joasa, medie si inalta.
-
-
+      activitate proiectarea si executia de instalatii electrice.
 
 
       Detinem atestat ANRE tip A si C2A.
 
 
-
-
-      In anul 2020 am decis sa extindem serviciile oferite si sa oferim o
-      solutie completa la cheie clientilor nostri care sunt interesati de
-      trecerea flotei proprii pe energie verde.
+      In anul 2020 am decis sa extindem serviciile si sa oferim solutii complete
+      de e-mobility clientilor nostri pentru a face trecerea la energii
+      regenerabile cat mai rapida si mai simpla.
   - type: team_section
     title: Echipa
     team:
