@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Solutii e-mobility
-    subtitle: Solutii complete de pentru flote de automobile electrice
+    subtitle: Solutii complete pentru statii de incarcare automobile electrice
     actions:
       - label: Contactati-ne
         url: /contact
