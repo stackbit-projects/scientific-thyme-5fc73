@@ -23,8 +23,10 @@ sections:
     features:
       - title: Consultanta
         content: >
-          In func numarul de masini, locatie etc. iar noi va oferim configuratia
-          completa customizata conform cu necesitatile dumneavoastra
+          Primul pas in alegerea unei solutii de e-mobility este etapa de
+          consultanta, in care stabilim pe baza nevoilor clientilor nostri
+          parametrii instalatiei electrice, numarul de statii de
+          incarcare/sateliti necesari, precum si pretul estimativ.
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
