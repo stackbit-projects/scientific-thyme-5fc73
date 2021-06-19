@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Solutii complete e-mobility
+    title: Solutii e-mobility
     subtitle: >-
       Va oferim solutia la cheie pentru flota dumneavoastra de automobile
       electrice
