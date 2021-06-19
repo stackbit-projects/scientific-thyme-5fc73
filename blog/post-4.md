@@ -1,7 +1,6 @@
 ---
 title: Clienti rezidentiali
 date: '2020-05-30'
-author: _data/team/dianne-ameter.yaml
 categories: []
 tags:
   - JAMstack
