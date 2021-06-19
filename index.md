@@ -50,8 +50,8 @@ sections:
         image_position: right
         actions: []
       - content: >
-          Montam statiile in locatia dumneavoastra si punem in functiune
-          sistemul complet
+          Executam proiectul de montare a statiilor de incarcare si punerea in
+          functiune a acestora.
         align: left
         image_alt: lorem-ipsum
         image_position: left
