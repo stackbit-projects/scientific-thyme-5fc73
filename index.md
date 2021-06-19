@@ -35,8 +35,7 @@ sections:
       - title: Echipamente
         content: >
           Oferim toate echipamentele necesare pentru realizarea proiectului
-          (instalatia electrica, transformatoare, statiile de incarcare,
-          software-ul de operare).
+          (transformatoare, statii de incarcare, software de operare).
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
