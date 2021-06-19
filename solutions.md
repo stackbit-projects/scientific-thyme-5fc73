@@ -5,7 +5,7 @@ sections:
     show_recent: false
     recent_count: 0
     type: blog_feed_section
-  - title: lorem-ipsum
+  - title: Clienti comerciali
     features: []
     type: features_section
 seo:
