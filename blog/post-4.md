@@ -2,8 +2,7 @@
 title: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
 date: '2020-05-30'
 author: _data/team/dianne-ameter.yaml
-categories:
-  - _data/categories/news.yaml
+categories: []
 tags:
   - JAMstack
   - Sourcebit
