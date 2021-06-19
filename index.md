@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Solutii
 sections:
   - type: hero_section
     title: Solutii e-mobility
