@@ -2,8 +2,7 @@
 title: Amet Nulla Facilisi Morbi Tempus
 date: '2020-06-02'
 author: _data/team/gordon-norman.yaml
-categories:
-  - _data/categories/tutorials.yaml
+categories: []
 tags:
   - Stackbit
   - Netlify
