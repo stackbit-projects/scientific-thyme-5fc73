@@ -21,7 +21,7 @@ sections:
         image_position: left
         actions: []
         type: feature
-        image: images/chuttersnap-xfaYAsMV1p8-unsplash.jpg
+        image: images/ernest-ojeh-UrCV-U9hhCo-unsplash.jpg
     type: features_section
   - features: []
     type: features_section
