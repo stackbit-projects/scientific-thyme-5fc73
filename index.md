@@ -37,7 +37,7 @@ sections:
           Oferim toate echipamentele necesare pentru realizarea proiectului
           (transformatoare, statii de incarcare, software de operare).
         align: left
-        image: images/feature.svg
+        image: images/Kempower_2021_C-S_Night.jpg
         image_alt: Feature 2 placeholder image
         image_position: left
         actions: []
