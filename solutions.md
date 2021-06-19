@@ -8,7 +8,7 @@ sections:
   - title: Clienti comerciali
     features: []
     type: features_section
-  - title: lorem-ipsum
+  - title: Clienti rezidentiali
     features: []
     type: features_section
 seo:
