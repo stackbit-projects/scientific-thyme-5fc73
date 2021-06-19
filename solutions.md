@@ -8,12 +8,24 @@ seo:
   type: stackbit_page_meta
 layout: page
 ---
-*   Clienti comerciali
+## Clienti comerciali
+
+![](/\_static/app-assets/groovy-maple.jpg)
 
 
 
-*   Clienti casnici
 
 
 
-*   Statii publice (In curand)
+
+## Clienti rezidentiali
+
+![](/\_static/app-assets/ernest-ojeh-UrCV-U9hhCo-unsplash.jpg)
+
+##
+
+
+
+
+
+## Statii publice (In curand)&#xA;&#xA;
