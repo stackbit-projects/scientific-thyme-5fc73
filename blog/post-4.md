@@ -5,7 +5,7 @@ categories: []
 tags:
   - JAMstack
   - Sourcebit
-image: images/4.png
+image: images/ernest-ojeh-UrCV-U9hhCo-unsplash.jpg
 image_alt: Post 4 placeholder image
 seo:
   title: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
