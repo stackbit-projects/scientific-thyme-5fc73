@@ -7,8 +7,7 @@ sections:
     type: blog_feed_section
   - title: Clienti comerciali
     features:
-      - title: lorem-ipsum
-        content: >-
+      - content: >-
           ## Lorem ipsum
 
 
