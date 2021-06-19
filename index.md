@@ -61,8 +61,9 @@ sections:
         title: Montaj si punere in functiune
       - title: Mentenanta post-instalare
         content: >
-          Oferim mentenanta, diagnoza si suport atat pentru statiile fizice cat
-          si software-ul de comunicare cu acestea
+          Oferim servicii de mentenanta, diagnoza si depanare pentru instalatia
+          electrica si statiile de incarcare, precum si pentru software-ul
+          folosit de acestea.
         align: left
         image_alt: lorem-ipsum
         image_position: right
