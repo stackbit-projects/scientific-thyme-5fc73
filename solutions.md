@@ -28,6 +28,9 @@ sections:
   - title: Statii publice (In curand)
     features: []
     type: features_section
+  - title: lorem-ipsum
+    features: []
+    type: features_section
 seo:
   title: ''
   description: ''
