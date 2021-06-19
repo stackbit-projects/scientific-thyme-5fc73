@@ -15,7 +15,24 @@ sections:
         image: images/groovy-maple.jpg
     type: features_section
   - title: Clienti rezidentiali
-    features: []
+    features:
+      - title: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        align: left
+        image_alt: lorem-ipsum
+        image_position: left
+        actions: []
+        type: feature
     type: features_section
   - features: []
     type: features_section
