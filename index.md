@@ -69,7 +69,7 @@ sections:
         image_position: right
         actions: []
         type: feature
-        image: images/feature.svg
+        image: images/thisisengineering-raeng-f4pUuCc3M0g-unsplash.jpg
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
