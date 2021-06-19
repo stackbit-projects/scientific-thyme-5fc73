@@ -43,7 +43,7 @@ sections:
         actions: []
       - title: Instalatia electrica
         content: |
-          Executam complet instalatia electrica necesara pentru dumneavoastra
+          Executam instalatia electrica completa.
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
