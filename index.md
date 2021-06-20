@@ -28,7 +28,6 @@ sections:
           parametrii instalatiei electrice, numarul de statii de
           incarcare/sateliti necesari, precum si pretul estimativ.
         align: left
-        image: images/alexander-schimmeck-PTfKblhWcCY-unsplash.jpg
         image_alt: Feature 1 placeholder image
         image_position: right
         actions: []
