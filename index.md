@@ -31,6 +31,7 @@ sections:
         image_alt: Feature 1 placeholder image
         image_position: right
         actions: []
+        image: images/chuttersnap-xfaYAsMV1p8-unsplash.jpg
       - title: Echipamente
         content: >
           Oferim toate echipamentele necesare pentru realizarea proiectului
